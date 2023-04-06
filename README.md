@@ -28,6 +28,5 @@
 
 
 
-[![leobaek's github stats](https://github-readme-stats.vercel.app/api?username=leobaek)](https://github.com/leobaek/github-readme-stats)
 
 ## <img src="https://github-readme-stats.vercel.app/api?username=leobaek&show_icons=true">
