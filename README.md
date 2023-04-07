@@ -24,11 +24,12 @@
 </div>
 <div align=center>
 	
-	🔗 **Blog:** [https://leo104.tistory.com/](https://leo104.tistory.com/)
-	👨‍💻 **GitHub:** [https://github.com/leobaek](https://github.com/leobaek)
+	🔗 **Blog:** <a href="https://leo104.tistory.com/">https://leo104.tistory.com/</a>
+	👨‍💻 **GitHub:** <a href="https://github.com/leobaek">https://github.com/leobaek</a>
 	📧 **Email:** beak36976@gmail.com
 
 </div>
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
