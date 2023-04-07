@@ -21,14 +21,12 @@
 <br>
 <div align=center>
 	<p>🎨 SNS  🎨</p>
-</div>
 <div align=center>
-	
-	🔗 **Blog:** <a href="https://leo104.tistory.com/">https://leo104.tistory.com/</a>
-	👨‍💻 **GitHub:** <a href="https://github.com/leobaek">https://github.com/leobaek</a>
-	📧 **Email:** beak36976@gmail.com
-
+	🔗 <b>Blog:</b> <a href="https://leo104.tistory.com/">https://leo104.tistory.com/</a><br>
+	👨‍💻 <b>GitHub:</b> <a href="https://github.com/leobaek">https://github.com/leobaek</a><br>
+	📧 <b>Email:</b> beak36976@gmail.com<br>
 </div>
+
 
 <div align=center>
 	<br>
