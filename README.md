@@ -27,8 +27,8 @@
 
 <div align="center">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobaek&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=leobaek&show_icons=true">
 	<br>
 	<p>🏆 Baekjoon Solved Rank 🏆</p>
 	<a href="https://solved.ac/kycasdzxc"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc"></a>
