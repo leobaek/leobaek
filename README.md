@@ -20,13 +20,14 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 SNS  🎨</p>
 </div>
 <div align=center>
 	
-	<a href="https://github.com/hyunsungKR/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://hyunsungstory.tistory.com/"><img src="https://img.shields.io/badge/Tistory-466BB0?style=flat-square&logo=Tistory&logoColor=white"/></a>img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
+	🔗 **Blog:** [https://leo104.tistory.com/](https://leo104.tistory.com/)
+	👨‍💻 **GitHub:** [https://github.com/leobaek](https://github.com/leobaek)
+	📧 **Email:** beak36976@gmail.com
+
 </div>
 <div align=center>
 	<br>
