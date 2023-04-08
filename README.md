@@ -40,5 +40,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobaek&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=leobaek&show_icons=true">
 	<br>
-	![Minwoo's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=leobaek)
-	</div>
+</div>
