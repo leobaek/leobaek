@@ -11,7 +11,7 @@
 
 <br>
 <div align=center>
-	<p>🛠 Framework 🛠</p>
+	<h3>🛠 Framework 🛠</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
