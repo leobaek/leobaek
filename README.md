@@ -19,7 +19,11 @@
 
 </div>
 <br>
-<div align=center>
+	## Library
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
+
+	<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+	<div align=center>
 	<p>🎨 SNS  🎨</p>
 <div align=center>
 	🔗 <b>Blog:</b> <a href="https://leo104.tistory.com/">https://leo104.tistory.com/</a><br>
