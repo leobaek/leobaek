@@ -24,6 +24,7 @@
 	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
 </div>
+<br>
 <div align=center>
 	<p>🔧 Tools 🔧</p>
 </div>
