@@ -25,7 +25,7 @@
 	<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> 
 </div>
 <div align=center>
-	<h3>IDE</h3>
+	<p>🔧 Tools 🔧</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> 
