@@ -41,6 +41,3 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=leobaek&show_icons=true">
 	<br>
 	![Minwoo's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=leobaek)
-	<br>
-	<p>🏆 Baekjoon solved rank 🏆</p>	
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leobaek)](https://solved.ac/leobaek)
